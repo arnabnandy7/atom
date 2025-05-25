@@ -98,3 +98,5 @@ repeat these steps to upgrade to future releases.
 * [macOS](docs/build-instructions/macos.md)
 * [FreeBSD](docs/build-instructions/freebsd.md)
 * [Windows](docs/build-instructions/windows.md)
+
+<!-- GitAds-Verify: G5YD7I77DIF1VDGMEVYDG6IE1686LUTV -->
