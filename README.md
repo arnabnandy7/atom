@@ -99,4 +99,6 @@ repeat these steps to upgrade to future releases.
 * [FreeBSD](docs/build-instructions/freebsd.md)
 * [Windows](docs/build-instructions/windows.md)
 
-<!-- GitAds-Verify: G5YD7I77DIF1VDGMEVYDG6IE1686LUTV -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/atom@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/atom@github)
+
